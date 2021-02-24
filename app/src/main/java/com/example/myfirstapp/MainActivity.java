@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    // master code
+    // branch code
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
