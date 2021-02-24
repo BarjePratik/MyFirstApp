@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    // master code
+    // master code edit online 3:40
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
