@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // changes in the branch
+        // changes to be merge in master
     }
 }
